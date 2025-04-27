@@ -1,8 +1,4 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="image/IMG_0037.jpg" alt="Saim Sameer" width="150" style="border-radius:75px;" />
-</p>
-
 <h1 align="center">Hi there, I’m <strong>Saim Sameer</strong> 👋</h1>
 <p align="center">
   <em>Junior Computer Science student at Farmingdale State College</em><br>
