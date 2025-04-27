@@ -11,7 +11,6 @@
 ## 🚀 About Me
 - 📚 Currently exploring **Data Structures** (Fibonacci Heaps), **Real-Time Chat Apps** (Azure SignalR), and **AI-Powered Features**  
 - 💡 Passionate about turning ideas into reliable, user-friendly applications  
-- 🎯 Aiming to leverage software to solve real-world problems and create impactful experiences  
 
 ---
 
