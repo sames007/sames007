@@ -1,45 +1,63 @@
-# Saim Sameer
+<h1 align="center">Saim Sameer</h1>
 
-**Computer Science Senior at Farmingdale State College**  
-Java-first student building practical software across desktop apps, full-stack web, AI-assisted features, and real-time collaboration tools.
+<p align="center">
+  Computer Science Senior at Farmingdale State College
+  <br>
+  Java-first developer building desktop, web, AI-assisted, and real-time applications.
+</p>
 
-[Portfolio](https://sames007.github.io/index.html) |
-[Projects](https://sames007.github.io/projects.html) |
-[Skills](https://sames007.github.io/skills.html) |
-[LinkedIn](https://www.linkedin.com/in/saim-sameer-6849b934a/) |
-[Email](mailto:sames@farmingdale.edu)
+<p align="center">
+  <a href="https://sames007.github.io/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/saim-sameer-6849b934a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sames@farmingdale.edu">
+    <img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## About Me
+## About
 
-I am strongest in Java, JavaFX, and object-oriented design from my Computer Science work at Farmingdale State College. I like building useful applications with clear interfaces, practical workflows, and features that help people get work done.
+I am a Computer Science senior with my strongest foundation in Java, JavaFX, and object-oriented design. I enjoy building useful applications with clear interfaces, practical workflows, and features that solve real problems.
 
-I am open to internships, entry-level programming roles, project feedback, and opportunities where I can contribute while continuing to learn from experienced developers.
+My portfolio includes desktop apps, full-stack web apps, AI-assisted study and productivity tools, dashboards, and real-time collaboration projects.
 
-## Featured Projects
+## Current Focus
 
-| Project | What it does | Stack | Links |
-| --- | --- | --- | --- |
-| **Collaboard Rooms** | Real-time collaboration rooms with SignalR chat, WebRTC video, screen sharing, local recording, virtual backgrounds, and a shared whiteboard. | JavaScript, C#, ASP.NET Core, SignalR, WebRTC, Docker | [Repo](https://github.com/sames007/Collaboard_Rooms) / [Live demo](https://collaboard-rooms.onrender.com/index.html#room=resume-demo) |
-| **StudyBuddy** | Study assistant with Firebase Authentication, saved study history, AI tutoring, note summaries, flashcards, quizzes, and book search. | TypeScript, Next.js, React, Firebase, Gemini API | [Repo](https://github.com/sames007/StudyBuddy) / [Live app](https://studybuddy-backend--studybuddy-4f855.us-central1.hosted.app) |
-| **NexTrade** | Educational market dashboard for stocks, crypto, financial news, watchlists, quote updates, alerts, and AI explanations. | JavaScript, Python, Next.js, Express, Socket.IO | [Repo](https://github.com/sames007/NexTrade) / [Live app](https://nextrade-jgp0.onrender.com/) |
-| **MazeMind** | Java desktop maze app with manual controls, custom maze and character images, collision checks, route previews, and A* auto-solving. | Java, desktop UI, A* | [Repo](https://github.com/sames007/MazeMind) |
-| **TaskManagerApp** | JavaFX task manager with account flow, local offline storage, CSV import/export, reminders, scheduling, themes, and AI assistance. | Java, JavaFX, SQL, CSV, Gemini | [Repo](https://github.com/sames007/TaskManagerApp) |
-| **Elevator Simulation** | JavaFX elevator simulator with polymorphic elevator and passenger types, hall requests, destination requests, scenario controls, and smoke tests. | Java, JavaFX, FXML, CSS | [Repo](https://github.com/sames007/ElevatorSimulation) |
+- Strengthening my Java, JavaFX, and object-oriented programming foundation
+- Building practical full-stack apps with clean user flows
+- Exploring AI-assisted features, real-time communication, and deployment
+- Looking for internships, entry-level programming roles, and project feedback
 
-## Skills
+## Tech Stack
 
-**Strongest foundation:** Java, object-oriented programming, JavaFX, FXML, desktop app logic, file handling, and simulations.
+**Languages**
 
-**Languages:** Java, TypeScript, JavaScript, C#, Python, HTML, CSS, SQL
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=sqlite&logoColor=white)
 
-**Frameworks and libraries:** JavaFX, FXML, ASP.NET Core, SignalR, WebRTC, React, Next.js, Node.js, Express, Socket.IO, Tailwind CSS
+**Frameworks and Tools**
 
-**Services and tools:** Firebase, Firestore, Firebase Storage, Docker, Render, Maven, Gemini API, Open Library API, CSV
+![JavaFX](https://img.shields.io/badge/JavaFX-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-## Contact
+## Find Me
 
-- Email: [sames@farmingdale.edu](mailto:sames@farmingdale.edu)
+- Portfolio: [sames007.github.io](https://sames007.github.io/index.html)
 - GitHub: [github.com/sames007](https://github.com/sames007)
 - LinkedIn: [linkedin.com/in/saim-sameer-6849b934a](https://www.linkedin.com/in/saim-sameer-6849b934a/)
+- Email: [sames@farmingdale.edu](mailto:sames@farmingdale.edu)
