@@ -1,28 +1,22 @@
-<table>
-  <tr>
-    <td width="72%" valign="middle">
-      <h1>Hi, I'm Saim Sameer</h1>
-      <p>
-        Computer Science Senior at Farmingdale State College.<br>
-        Java-first developer building practical desktop, web, AI, and real-time applications.
-      </p>
-      <p>
-        <a href="https://sames007.github.io/index.html">
-          <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-        </a>
-        <a href="https://www.linkedin.com/in/saim-sameer-6849b934a/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="mailto:sames@farmingdale.edu">
-          <img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-      </p>
-    </td>
-    <td width="28%" align="center">
-      <img width="170" src="https://sames007.github.io/image/IMG_0037%20%281%29.jpg" alt="Saim Sameer">
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi, I'm Saim Sameer</h1>
+
+<p align="center">
+  Computer Science Senior at Farmingdale State College
+  <br>
+  Java-first developer building practical desktop, web, AI, and real-time applications.
+</p>
+
+<p align="center">
+  <a href="https://sames007.github.io/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/saim-sameer-6849b934a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sames@farmingdale.edu">
+    <img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
