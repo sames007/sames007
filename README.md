@@ -1,56 +1,45 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi there, I'm <strong>Saim Sameer</strong> 👋</h1>
+# Saim Sameer
 
-<p align="center">
-  <em>🎓 Junior Computer Science Student at Farmingdale State College</em><br>
-  <em>💻 Building real-world apps in Java · C# · JavaScript · AI · SignalR</em>
-</p>
+**Computer Science Senior at Farmingdale State College**  
+Java-first student building practical software across desktop apps, full-stack web, AI-assisted features, and real-time collaboration tools.
 
----
-
-## 🚀 About Me
-- 📚 Currently exploring **Data Structures** (Fibonacci Heaps), **Real-Time Chat Apps** (Azure SignalR), and **AI-Powered Features**  
-- 💡 Passionate about turning ideas into reliable, user-friendly applications  
+[Portfolio](https://sames007.github.io/index.html) |
+[Projects](https://sames007.github.io/projects.html) |
+[Skills](https://sames007.github.io/skills.html) |
+[LinkedIn](https://www.linkedin.com/in/saim-sameer-6849b934a/) |
+[Email](mailto:sames@farmingdale.edu)
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I am strongest in Java, JavaFX, and object-oriented design from my Computer Science work at Farmingdale State College. I like building useful applications with clear interfaces, practical workflows, and features that help people get work done.
 
-### Frameworks & Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-0096C7?style=flat-square&logo=java&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+I am open to internships, entry-level programming roles, project feedback, and opportunities where I can contribute while continuing to learn from experienced developers.
 
-### Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Featured Projects
 
----
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Collaboard Rooms** | Real-time collaboration rooms with SignalR chat, WebRTC video, screen sharing, local recording, virtual backgrounds, and a shared whiteboard. | JavaScript, C#, ASP.NET Core, SignalR, WebRTC, Docker | [Repo](https://github.com/sames007/Collaboard_Rooms) / [Live demo](https://collaboard-rooms.onrender.com/index.html#room=resume-demo) |
+| **StudyBuddy** | Study assistant with Firebase Authentication, saved study history, AI tutoring, note summaries, flashcards, quizzes, and book search. | TypeScript, Next.js, React, Firebase, Gemini API | [Repo](https://github.com/sames007/StudyBuddy) / [Live app](https://studybuddy-backend--studybuddy-4f855.us-central1.hosted.app) |
+| **NexTrade** | Educational market dashboard for stocks, crypto, financial news, watchlists, quote updates, alerts, and AI explanations. | JavaScript, Python, Next.js, Express, Socket.IO | [Repo](https://github.com/sames007/NexTrade) / [Live app](https://nextrade-jgp0.onrender.com/) |
+| **MazeMind** | Java desktop maze app with manual controls, custom maze and character images, collision checks, route previews, and A* auto-solving. | Java, desktop UI, A* | [Repo](https://github.com/sames007/MazeMind) |
+| **TaskManagerApp** | JavaFX task manager with account flow, local offline storage, CSV import/export, reminders, scheduling, themes, and AI assistance. | Java, JavaFX, SQL, CSV, Gemini | [Repo](https://github.com/sames007/TaskManagerApp) |
+| **Elevator Simulation** | JavaFX elevator simulator with polymorphic elevator and passenger types, hall requests, destination requests, scenario controls, and smoke tests. | Java, JavaFX, FXML, CSS | [Repo](https://github.com/sames007/ElevatorSimulation) |
 
-## 📫 Let's Connect!
+## Skills
 
-<p align="center">
-  <a href="https://github.com/sames007" aria-label="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/saim-sameer-6849b934a/" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.hackerrank.com/profile/sames1" aria-label="HackerRank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="mailto:sames@farmingdale.edu" aria-label="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+**Strongest foundation:** Java, object-oriented programming, JavaFX, FXML, desktop app logic, file handling, and simulations.
 
+**Languages:** Java, TypeScript, JavaScript, C#, Python, HTML, CSS, SQL
+
+**Frameworks and libraries:** JavaFX, FXML, ASP.NET Core, SignalR, WebRTC, React, Next.js, Node.js, Express, Socket.IO, Tailwind CSS
+
+**Services and tools:** Firebase, Firestore, Firebase Storage, Docker, Render, Maven, Gemini API, Open Library API, CSV
+
+## Contact
+
+- Email: [sames@farmingdale.edu](mailto:sames@farmingdale.edu)
+- GitHub: [github.com/sames007](https://github.com/sames007)
+- LinkedIn: [linkedin.com/in/saim-sameer-6849b934a](https://www.linkedin.com/in/saim-sameer-6849b934a/)
