@@ -3,18 +3,12 @@
 <p align="center">
   <strong>Computer Science Senior at Farmingdale State College</strong>
   <br>
-  Java-first developer building practical desktop, web, AI, and real-time applications.
+  Java-first developer building practical web, AI, and real-time applications.
 </p>
 
 <p align="center">
   <a href="https://sames007.github.io/index.html">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://sames007.github.io/projects.html">
-    <img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge" alt="Projects">
-  </a>
-  <a href="https://sames007.github.io/skills.html">
-    <img src="https://img.shields.io/badge/Skills-16A34A?style=for-the-badge" alt="Skills">
   </a>
   <a href="https://www.linkedin.com/in/saim-sameer-6849b934a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,35 +20,11 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>About Me</h3>
-      <p>
-        I am a Computer Science senior at Farmingdale State College. Java is my main
-        language, and I have been using projects to practice desktop apps, web apps,
-        AI features, deployment, and real-time tools.
-      </p>
-      <p>
-        I like building useful applications with clear interfaces, practical workflows,
-        and features that help people get work done.
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>Quick Context</h3>
-      <p><strong>School:</strong> Farmingdale State College</p>
-      <p><strong>Strongest foundation:</strong> Java, JavaFX, object-oriented design</p>
-      <p><strong>Project range:</strong> Desktop apps, full-stack web, AI features, real-time tools</p>
-    </td>
-  </tr>
-</table>
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desktop_Apps-111827?style=flat-square" alt="Desktop apps">
-  <img src="https://img.shields.io/badge/Full--Stack_Web-2563EB?style=flat-square" alt="Full-stack web">
-  <img src="https://img.shields.io/badge/AI_Features-7C3AED?style=flat-square" alt="AI features">
-  <img src="https://img.shields.io/badge/Real--Time_Tools-16A34A?style=flat-square" alt="Real-time tools">
-</p>
+I am a Computer Science senior at Farmingdale State College. Java is my main language, and I have been using projects to practice web apps, AI features, deployment, and real-time tools.
+
+I like building useful applications with clear interfaces, practical workflows, and features that help people get work done.
 
 ## Current Focus
 
